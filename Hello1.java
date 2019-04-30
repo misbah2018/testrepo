@@ -5,6 +5,7 @@ public class  Hello1{
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 			String a = "branch b at 5:30`:wq``";
 =======
 			String a = "branch b at 5:35`:wq``";
@@ -12,6 +13,9 @@ public class  Hello1{
 =======
 			String a = "branch b at 5:40`:wq``";
 >>>>>>> 4adafe1... commit
+=======
+			String a = "branch b at 5:45`:wq``";
+>>>>>>> 0fee927... commit
 		}
 	}
 
