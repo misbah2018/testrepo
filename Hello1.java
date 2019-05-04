@@ -6,7 +6,7 @@ public class  Hello1{
 <<<<<<< HEAD
 			String a = "branch b 10:22";
 =======
-			String a = "branch b";
+			String a = "branch b 1033";
 >>>>>>> 157adb0... commit
 		}
 	}
