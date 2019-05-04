@@ -3,10 +3,10 @@ public class  Hello1{
 	public static void main(String[] args) {
 		for (int i = 0;i< 10 ;i++ ) {
 
-			String a = "branch b 10:22";
+			String a = "branch master 2:02";
 		}
 	}
 
-
+i
 
 }
